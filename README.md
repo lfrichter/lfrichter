@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on Apposing
 - 🌱 I’m currently learning Microservice
-- 📫 How to reach me: my e-mail fernando . richter @ gmail.com
+- 📫 You can reach me by phone or email
