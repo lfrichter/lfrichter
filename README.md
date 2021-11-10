@@ -13,5 +13,5 @@ To know more about me you can access [My Personal Page](https://lfrichter.github
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfrichter&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfrichter&layout=compact&hide=VBA)
 
