@@ -1,9 +1,9 @@
 ### Hi there I'm Luis Fernando Richter aka [lfrichter](https://github.com/lfrichter) 👋
 
-- 🔭 I’m currently working on Full Comms in a Full Stack position
+- 🔭 I'm a service provider and my main projects currently is from Full Comms and Keaze, where I work as a FullStack Developer
 - 🌱 Also improving my skills on architecture and Microservice
 - 📫 You can reach me by phone/whatsapp or email
-- 🎸 Fun fact: I love play guitar
+- 🎸 Fun fact: I love playing acoustic guitar
 
 
 To know more about me you can access [My Personal Page](https://lfrichter.github.io/fernando.richter/)
